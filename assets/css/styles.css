@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+}
+.integrantes{
+    text-align:start;
+}
+.seleccion-ayuda{
+    margin: auto;
+    place-items: center;
+    display: flex;
+}
+.imagen-ayuda{
+    height: 400px;
+    width: 400px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+.sel-ayuda-display{
+    display: grid;
+}
+.menu{
+    text-align: right;
+}
+.animales-ayuda{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    padding-bottom: 20px;
+}
+.imagen-animales{
+    padding-right: 100px;
+}
+.nombre-animales{
+    margin: auto;
+}
+.ficha{
+    display: flex;
+}
+.ficha-imagen{
+    height: 300px;
+    width: 300px;
+}
+.ficha-datos{
+    text-align: left;
+    padding-left: 40px;
+}
